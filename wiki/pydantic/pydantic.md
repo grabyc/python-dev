@@ -10,7 +10,7 @@ This documentation provides an overview of the purpose and implementation of use
 
 ## Table of Contents
 
-- [User Story 63: Using Pydantic Models](../../../pydantic/us63/US63_pydantic_model.md)
+- [User Story 63: Using Pydantic Models](US63_pydantic_model.md)
 
 Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
 
