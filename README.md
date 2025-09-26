@@ -1,3 +1,3 @@
 # python-dev
 
-> development branch updated
+> new development branch created in vscode
