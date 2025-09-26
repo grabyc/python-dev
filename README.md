@@ -1,3 +1,3 @@
 # python-dev
 
-> New development branch created
+> development branch updated
