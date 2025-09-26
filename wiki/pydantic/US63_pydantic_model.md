@@ -31,5 +31,5 @@ In this project, the Pydantic model is used in a Gradio app to validate user inp
 
 ---
 For more details, see 
- - the implementation in `gradio_app.py` and `pydantic_use_case.py`.
+ - the implementation in `gradio_app.py`
  - models documentation in [Pydantic Models](https://docs.pydantic.dev/latest/concepts/models/)
