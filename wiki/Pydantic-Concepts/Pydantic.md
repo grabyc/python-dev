@@ -10,7 +10,7 @@ This documentation provides an overview of the purpose and implementation of use
 
 ## Table of Contents
 
-- [User Story 63: Using Pydantic Basic Models](User-Story-63:-Using-Pydantic-Basic-Models.md)
+- [User Story 63: Using Pydantic Basic Models](/Pydantic-Concepts/User-Story-63:-Using-Pydantic-Basic-Models.md)
 
 Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
 
