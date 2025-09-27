@@ -1,20 +1,8 @@
 import gradio as gr
-from pydantic import BaseModel, validator, ValidationError
+from pydantic import ValidationError
+from models import Product, User
 
-# Scenario 1: Default values applied
-class Product(BaseModel):
-    name: str = "Unknown Product"
-    price: float
-
-# Scenario 2: Custom validator
-class User(BaseModel):
-    username: str
-
-    @validator('username')
-    def username_must_be_alphanumeric(cls, v):
-        if not v.isalnum():
-            raise ValueError('username must be alphanumeric')
-        return v
+# Gradio interface functions
 
 def product_interface(price, name=None):
     try:
