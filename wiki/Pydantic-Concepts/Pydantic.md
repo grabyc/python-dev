@@ -15,5 +15,5 @@ This documentation provides an overview of the purpose and implementation of use
 Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
 
 ---
-or more details, visit 
+For more details, visit 
  - Pydantic's documentation in [Pydantic's Home Page](https://docs.pydantic.dev/latest/)
