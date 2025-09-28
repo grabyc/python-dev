@@ -37,5 +37,5 @@ Assertions are used to check that code returns expected results. If an assertion
 For more details, see 
  - the user story in [User Story 89: [Test] Writing Simple Tests with pytest](https://dev.azure.com/gabriel-raby/Python/_workitems/edit/89)
  - the implementation in `add.py` and `test_add.py`
- - models documentation in [Pytest Assertions](https://docs.pytest.org/en/stable/how-to/assert.html)
+ - assertions documentation in [Pytest Assertions](https://docs.pytest.org/en/stable/how-to/assert.html)
 

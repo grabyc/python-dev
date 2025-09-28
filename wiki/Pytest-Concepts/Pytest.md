@@ -11,6 +11,7 @@ This documentation provides an overview of the purpose and implementation of use
 ## Table of Contents
 
 - [User Story 89: Pytest Basics](/Pytest-Concepts/User-Story-89-Pytest-Basics)
+- [User Story 90: Pytest Assertions](/Pytest-Concepts/User-Story-90-Pytest-Assertions)
 
 Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
 
