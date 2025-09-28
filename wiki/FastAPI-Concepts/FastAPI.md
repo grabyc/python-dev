@@ -17,3 +17,4 @@ Each link above leads to a dedicated markdown page with details, code examples, 
 ---
 For more details, visit 
  - FastAPI's documentation at [FastAPI Home Page](https://fastapi.tiangolo.com/)
+ - OpenAPI's documentation at [OpenAPI Home Page](https://learn.openapis.org/)
