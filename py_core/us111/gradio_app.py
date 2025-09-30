@@ -1,5 +1,5 @@
 import gradio as gr
-from data_types import list_operations, dict_access, tuple_immutability, set_uniqueness
+from data_types_collections import list_operations, dict_access, tuple_immutability, set_uniqueness
 
 def parse_list(s):
     return [int(x.strip()) for x in s.split(",") if x.strip()]
