@@ -5,6 +5,7 @@ This documentation provides an overview of core Python language concepts as demo
 ## Table of Contents
 
 - [Data Types](#data-types)
+- [Advanced Data Types](#advanced-data-types)
 
 ---
 
@@ -20,9 +21,22 @@ This section covers user stories related to Python's built-in data types, includ
 #### User Stories
 - [User Story 110: Python Data Types Basics](/Python-Concepts/User-Story-110-Data-Types-Basics)
 
-Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
+---
+
+## Advanced Data Types
+
+This section covers user stories related to Python's advanced data types and collections, such as lists, dictionaries, tuples, and sets.
+
+### Purpose of Advanced Data Types User Stories
+- Demonstrate list, dictionary, tuple, and set operations
+- Show mutability, immutability, and uniqueness properties
+- Provide reference implementations for collection behaviors
+
+#### User Stories
+- [User Story 111: Python Advanced Data Types](/Python-Concepts/User-Story-111-Advanced-Data-Types)
 
 ---
 For more details, visit 
  - Python's documentation at [Python Data Types](https://docs.python.org/3/)
  - Data types documentation at [RealPython Data Types](https://realpython.com/python-data-types/)
+ - Advanced Data types documentation at [Collection Data Types](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
