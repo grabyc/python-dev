@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from user_logic import User, process_user
+from py_fastapi.us66.user_logic import User, process_user
 
 app = FastAPI()
 
