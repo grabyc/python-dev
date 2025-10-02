@@ -1,18 +1,34 @@
 # FastAPI Documentation
 
-This documentation provides an overview of the purpose and implementation of user stories related to FastAPI in this project. Each user story demonstrates a specific use case or feature of FastAPI, focusing on API development, endpoint design, and integration with other tools.
-
-## Purpose of FastAPI User Stories
-- Illustrate practical scenarios for building APIs with FastAPI
-- Demonstrate endpoint creation and response handling
-- Show integration with documentation and testing tools
-- Serve as reference implementations for common API patterns
+This documentation provides an overview of core FastAPI concepts as demonstrated through user stories in this project. Each section focuses on a fundamental aspect of FastAPI, with user stories illustrating practical use cases, behaviors, and best practices.
 
 ## Table of Contents
 
+- [Basic Endpoints](#basic-endpoints)
+- [Endpoint Validation](#endpoint-validation)
+
+---
+
+## Basic Endpoints
+
+This section covers user stories related to creating and using basic FastAPI endpoints, including route definitions and response handling.
+
+#### User Stories
 - [User Story 65: FastAPI Basics](/FastAPI-Concepts/User-Story-65-FastAPI-Basics)
 
-Each link above leads to a dedicated markdown page with details, code examples, and explanations for the corresponding user story.
+---
+
+## Endpoint Validation
+
+This section covers user stories related to request payload validation using Pydantic models and FastAPI's automatic error handling.
+
+### Purpose of Endpoint Validation User Stories
+- Demonstrate how to use Pydantic models for request validation
+- Show FastAPI's automatic error responses for invalid payloads
+- Provide reference implementations for robust API input validation
+
+#### User Stories
+- [User Story 66: Endpoint Payload Validation](/FastAPI-Concepts/User-Story-66-Endpoint-Validation)
 
 ---
 For more details, visit 
