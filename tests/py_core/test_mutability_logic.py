@@ -11,7 +11,7 @@ def test_modify_list():
 def test_modify_tuple():
     tpl = (1, 2, 3)
     # Should raise TypeError message
-    error = modify_tuple(list(tpl), 0, 9)
+    error = modify_tuple(tpl, 0, 9)
     assert "does not support item assignment" in error or "'tuple' object does not support item assignment" in error
 
 def test_shared_reference_side_effects():
