@@ -7,6 +7,7 @@ This documentation provides an overview of core Python language concepts as demo
 - [Data Types](#data-types)
 - [Advanced Data Types](#advanced-data-types)
 - [Type Hints](#type-hints)
+- [Type Conversion](#type-conversion)
 
 ---
 
@@ -51,8 +52,23 @@ This section covers user stories related to Python's type hints, static typing, 
 - [User Story 112: Python Type Hints](/Python-Concepts/User-Story-112-Type-Hints)
 
 ---
+
+## Type Conversion
+
+This section covers user stories related to Python's type conversion (type coercion), both implicit and explicit, and error handling for invalid conversions.
+
+### Purpose of Type Conversion User Stories
+- Demonstrate implicit type coercion (e.g., int + float → float)
+- Show explicit type conversion (e.g., str to int)
+- Provide examples of error handling for invalid conversions
+
+#### User Stories
+- [User Story 124: Python Type Conversion](/Python-Concepts/User-Story-124-Type-Conversion)
+
+---
 For more details, visit 
  - Python's documentation at [Python Data Types](https://docs.python.org/3/)
  - Data types documentation at [RealPython Data Types](https://realpython.com/python-data-types/)
  - Advanced Data types documentation at [Collection Data Types](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
  - Type hints documentation at [Python Type Hints](https://docs.python.org/3/library/typing.html)
+ - Type conversion documentation at [Type Conversion](https://llego.dev/posts/python-type-conversion-guide/)
