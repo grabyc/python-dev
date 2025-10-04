@@ -13,6 +13,7 @@ This documentation provides an overview of core Python language concepts as demo
 	- [Mutability](#mutability)
 - [Control Flow](#control-flow)
 	- [Conditional Statements](#conditional-logic)
+	- [Looping](#looping)
 
 
 
@@ -44,6 +45,11 @@ This section covers Python's control flow mechanisms. More aspects will be added
 ### Conditional Statements
 - [User Story 128: Python Conditional Logic](/Python-Concepts/User-Story-128-Conditional)
 
+### Looping
+- **For Loops:** Used to iterate over sequences (like lists, tuples, or strings) and perform actions for each element.
+- **While Loops:** Used to repeat actions as long as a condition remains true.
+- [User Story 129: Python Looping (For and While)](/Python-Concepts/User-Story-129-Looping)
+
 ---
 For more details, visit:
 - Python's documentation at [Python Data Types](https://docs.python.org/3/)
@@ -52,3 +58,6 @@ For more details, visit:
 - Type hints documentation at [Python Type Hints](https://docs.python.org/3/library/typing.html)
 - Type conversion documentation at [Type Conversion](https://docs.python.org/3/library/functions.html#func-int)
 - Mutability documentation at [RealPython Mutable vs Immutable Types](https://realpython.com/python-mutable-vs-immutable-types/)
+- Looping documentation at 
+   - [RealPython for Loop](https://realpython.com/python-for-loop/)
+   - [RealPython while Loop](https://realpython.com/python-while-loop/)   

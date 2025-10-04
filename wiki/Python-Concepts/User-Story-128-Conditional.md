@@ -24,6 +24,10 @@ else:
 - The `elif` (else if) statement checks additional conditions if previous ones are false.
 - The `else` statement executes if none of the previous conditions are true.
 
-## Related Resources
-- [Python Documentation: if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-- [Real Python: Conditional Statements](https://realpython.com/python-conditional-statements/)
+---
+For more details, see 
+ - the user story in [User Story 128: [Control Flow] Conditional Statements (if/else)](https://dev.azure.com/gabriel-raby/Python/_workitems/edit/128)
+ - the implementation in `conditional_logic.py` and `gradio_app.py` 
+ - Conditional documentation at  
+    - [Python Documentation: if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+    - [Real Python: Conditional Statements](https://realpython.com/python-conditional-statements/)
